@@ -5,3 +5,5 @@
 ##### Header 5 Test
 ###### Header 6 Test
 Test how different headers would look like.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
